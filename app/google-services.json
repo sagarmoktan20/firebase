@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734953991049",
+    "project_id": "database-lecture-6e7bd",
+    "storage_bucket": "database-lecture-6e7bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734953991049:android:5ed5574b954b7582278f58",
+        "android_client_info": {
+          "package_name": "com.example.firebasetut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDijr8Fc7KKQF2-C7s1DjZlXNa93SwsNlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
